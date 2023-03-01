@@ -15,7 +15,7 @@ ___
 
 Отчет о тестировании Allure:
 
-![Allure_Report](![img.png](img.png))
+![Allure_Report](https://github.com/datska/Diplom/blob/master/docs/img.png)
 
 
 
