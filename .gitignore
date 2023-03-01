@@ -47,3 +47,12 @@ Errors.docx
 !**/src/main/**
 !**/src/test/**
 
+Thumbs.db*
+.DS_Store*
+node_modules
+.idea
+target
+*.iml
+/.gradle/
+./gradlle
+/build
