@@ -1,2 +1,13 @@
-package ru.netology.data.DbUtils;public class OrderEntity {
+package ru.netology.data.DbUtils;
+
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@NoArgsConstructor
+public class OrderEntity {
+    private String  id;
+    private String created;
+    private String  creditId;
+    private String  paymentId;
 }
